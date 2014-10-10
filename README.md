@@ -23,3 +23,11 @@ A curated list of awesome Linux software, inspired by awesome-python
 * [Sawfish](http://sawfish.tuxfamily.org/) - Sawfish is an extensible window manager using a Lisp-based scripting language. Its policy is very minimal compared to most window managers. Its aim is simply to manage windows in the most flexible and attractive manner possible.
 * [wmii](https://code.google.com/p/wmii/) - A small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
 * [xmonad](http://xmonad.org/) - xmonad is a dynamically tiling X11 window manager that is written and configured in Haskell. In a normal WM, you spend half your time aligning and searching for windows. xmonad makes work easier, by automating this.
+
+##### X Desktop Environments
+* [KDE](https://www.kde.org/) - The KDE Software Compilation (KDE SC) is a desktop environment and an associated range of KDE Applications produced by KDE.
+* [LXDE](http://lxde.org/) - The "Lightweight X11 Desktop Environment" is an extremely fast-performing and energy-saving desktop environment.
+* [GNOME](http://www.gnome.org/) - GNOME is a desktop environment which is composed entirely of free and open-source software.
+* [MATE](http://mate-desktop.org/) - MATE is a desktop environment forked from the now-unmaintained code base of GNOME 2.
+* [Xfce](http://www.xfce.org/) - Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
+* [EDE](http://www.equinox-project.org/) - EDE is small desktop environment built to be responsive, light in resource usage and to have familiar look and feel. 
