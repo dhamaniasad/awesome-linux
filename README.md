@@ -3,10 +3,11 @@ awesome-linux
 
 A curated list of awesome Linux software, inspired by awesome-python
 
-- [awesome-linux](https://github.com/dhamaniasad/awesome-linux/)
-  - [X Window Managers](https://github.com/dhamaniasad/awesome-linux/#x-window-managers)
-  - [X Desktop Environments](https://github.com/dhamaniasad/awesome-linux/#x-desktop-environments)
-  - [Graphical Package Management Tools](https://github.com/dhamaniasad/awesome-linux/#graphical-package-management-tools)
+- [awesome-linux](https://github.com/dhamaniasad/awesome-linux#)
+  - [X Window Managers](https://github.com/dhamaniasad/awesome-linux#x-window-managers)
+  - [X Desktop Environments](https://github.com/dhamaniasad/awesome-linux#x-desktop-environments)
+  - [Graphical Package Management Tools](https://github.com/dhamaniasad/awesome-linux#graphical-package-management-tools)
+  - [Partition Editor](https://github.com/dhamaniasad/awesome-linux#partition-editor)
 
 ##### X Window Managers
 * [9wm](http://unauthorised.org/dhog/9wm.html) - 9wm is an X window manager which attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
@@ -42,3 +43,6 @@ A curated list of awesome Linux software, inspired by awesome-python
 * [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11. 
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) - pirut provides a set of graphical tools for managing software.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) - YaST is the main package management tool on openSUSE. 
+
+##### Partition Editor
+* [GParted](http://gparted.sourceforge.net/) - GParted is a free partition editor for graphically managing your disk partitions.
