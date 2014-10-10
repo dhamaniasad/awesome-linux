@@ -3,6 +3,11 @@ awesome-linux
 
 A curated list of awesome Linux software, inspired by awesome-python
 
+- [awesome-linux](https://github.com/dhamaniasad/awesome-linux/)
+  - [X Window Managers](https://github.com/dhamaniasad/awesome-linux/#x-window-managers)
+  - [X Desktop Environments](https://github.com/dhamaniasad/awesome-linux/#x-desktop-environments)
+  - [Graphical Package Management Tools](https://github.com/dhamaniasad/awesome-linux/#graphical-package-management-tools)
+
 ##### X Window Managers
 * [9wm](http://unauthorised.org/dhog/9wm.html) - 9wm is an X window manager which attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
 * [awesome](http://awesome.naquadah.org/) - awesome is a highly configurable, next generation framework window manager for X. It is very fast, extensible and licensed under the GNU GPLv2 license.
