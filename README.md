@@ -31,3 +31,9 @@ A curated list of awesome Linux software, inspired by awesome-python
 * [MATE](http://mate-desktop.org/) - MATE is a desktop environment forked from the now-unmaintained code base of GNOME 2.
 * [Xfce](http://www.xfce.org/) - Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 * [EDE](http://www.equinox-project.org/) - EDE is small desktop environment built to be responsive, light in resource usage and to have familiar look and feel. 
+
+##### Graphical Package Management Tools
+* [Y PPA Manager](https://launchpad.net/y-ppa-manager) - Search for packages in Launchpad PPAs.
+* [PacmanXG](http://almin-soft.ru/index.php?programmy/pacmanxg/tags/pacmanxg) - GUI front-end for pacman. Depends on neither GTK+ nor Qt, just X11. 
+* [pirut](http://fedoraproject.org/wiki/Tools/pirut) - pirut provides a set of graphical tools for managing software.
+* [YaST](https://en.opensuse.org/YaST_Software_Management) - YaST is the main package management tool on openSUSE. 
